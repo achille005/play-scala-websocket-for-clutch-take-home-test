@@ -16,7 +16,14 @@ Download & Watch test movie here:
 Screen Shot of the UI.
 - https://github.com/achille005/play-scala-websocket-for-clutch-take-home-test/issues/1
 
+- Before Adding stock:
+![image](https://user-images.githubusercontent.com/6147947/68625131-698aae80-04a6-11ea-803f-939eb6f80453.png)
+
+- Added:
 ![image](https://user-images.githubusercontent.com/6147947/68624774-9a1e1880-04a5-11ea-87f9-e8e26264b952.png)
+
+- After Removal:
+![image](https://user-images.githubusercontent.com/6147947/68624889-dc475a00-04a5-11ea-9b53-419769c326a1.png)
 
 
 Acknowledgement & Resources: i have relied on resources from:
