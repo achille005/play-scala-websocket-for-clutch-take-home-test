@@ -8,9 +8,11 @@
 
 
 
-Download & Watch test movie here: https://github.com/achille005/play-scala-websocket-for-clutch-take-home-test/blob/master/add-and-remove-stocks.wmv
+Download & Watch test movie here: 
+- https://github.com/achille005/play-scala-websocket-for-clutch-take-home-test/blob/master/add-and-remove-stocks.wmv
 
-https://github.com/achille005/play-scala-websocket-for-clutch-take-home-test/issues/1
+Screen Shot of the UI.
+- https://github.com/achille005/play-scala-websocket-for-clutch-take-home-test/issues/1
 
 
 Acknowledgement & Resources: i have relied on resources from:
