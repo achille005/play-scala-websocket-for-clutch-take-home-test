@@ -16,6 +16,8 @@ Download & Watch test movie here:
 Screen Shot of the UI.
 - https://github.com/achille005/play-scala-websocket-for-clutch-take-home-test/issues/1
 
+![image](https://user-images.githubusercontent.com/6147947/68624774-9a1e1880-04a5-11ea-87f9-e8e26264b952.png)
+
 
 Acknowledgement & Resources: i have relied on resources from:
 - https://github.com/playframework/play-scala-websocket-example
